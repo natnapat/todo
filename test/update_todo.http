@@ -1,0 +1,9 @@
+@base_url=http://localhost:8081
+
+PUT {{base_url}}/todos/3
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NjE5NTg4MTJ9._L7LHfDufmt-4WXONeYD93jPGTZlXBDz1K186f2j-tU
+
+{
+    "text": "test update 3"
+}

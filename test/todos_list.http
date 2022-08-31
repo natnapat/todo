@@ -1,0 +1,4 @@
+@base_url=http://localhost:8081
+
+GET {{base_url}}/todos
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NjE5NTM1Njh9.yVapmhXTOU34aG3NyPwZ4ME1USPSVoQne9RY_iHTcME
